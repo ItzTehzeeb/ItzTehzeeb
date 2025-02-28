@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tehzeeb Kabir!
-- 👀 I’m interested in programming
+- 👀 I’m a beginner programmer and app developer
 - 🌱 I’m currently learning Python
 - 🖥️ I want to be a computer engineer
-- 😄 Pronouns: he/his/him
+- 😄 Pronouns: he/him/his
 
 
 <!---
