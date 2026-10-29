@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tehzeeb Kabir!
 - 👀 I’m a web and app developer
-- 🌱 I’m fairly skilled in Python, HTML, CSS, JS
+- 🌱 I’m fairly skilled in Python, C, HTML, CSS, JS
 - 🖥️ I want to be a computer engineer
 - 😄 Pronouns: he/him/his
 
